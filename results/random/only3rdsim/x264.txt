@@ -1,0 +1,18 @@
+m_total_writeback_retention_time
+7557094 151996 5003 45 
+total write backs
+7714138
+m_reset_cycles_index
+25
+max_write_count_over_reset_interval
+1302
+Total Dynamic Energy
+8.26417e+07
+IntraV
+0.567321
+Lifetime
+0.000111284
+Maxwrites
+8986
+static_energy
+0.682288
